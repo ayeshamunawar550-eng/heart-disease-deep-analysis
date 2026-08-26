@@ -1,5 +1,9 @@
 # Heart Disease Classification — Random Forest vs Gradient Boosting
 
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8.0-orange)](https://scikit-learn.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Predicting the presence of heart disease from clinical and diagnostic-test
 attributes using the classic **UCI Heart Disease (Cleveland)** data set,
 comparing two tree-based ensemble models: Random Forest and Gradient
@@ -67,8 +71,8 @@ results (max heart rate, ST depression, vessels colored by fluoroscopy).
 ## Getting started
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/ayeshamunawar550-eng/heart-disease-deep-analysis.git
+cd heart-disease-deep-analysis
 pip install -r requirements.txt
 jupyter notebook heart-disease-rf-gb-analysis.ipynb
 ```
@@ -83,6 +87,7 @@ hyperparameter search takes a minute or two on a laptop.
 ├── heart-disease-rf-gb-analysis.ipynb   # main analysis notebook
 ├── heart_disease_uci.csv                # data set
 ├── requirements.txt                     # pinned Python dependencies
+├── LICENSE                              # MIT license
 └── README.md
 ```
 
@@ -94,6 +99,8 @@ and is decades old, so any conclusions apply to this specific cohort rather
 than patients in general.
 
 ## License / attribution
+
+Code in this repository is released under the [MIT License](LICENSE).
 
 Data set: Detrano, R., et al. (1989). Heart Disease Data Set. UCI Machine
 Learning Repository. Used here for educational/benchmark purposes.
