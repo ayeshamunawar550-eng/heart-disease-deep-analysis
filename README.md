@@ -87,7 +87,7 @@ hyperparameter search takes a minute or two on a laptop.
 ├── heart-disease-rf-gb-analysis.ipynb   # main analysis notebook
 ├── heart_disease_uci.csv                # data set
 ├── requirements.txt                     # pinned Python dependencies
-├── LICENSE                              # MIT license
+├── LICENSE                              # GNU GPL v3 license
 └── README.md
 ```
 
@@ -100,7 +100,7 @@ than patients in general.
 
 ## License / attribution
 
-Code in this repository is released under the [MIT License](LICENSE).
+Code in this repository is released under the [GNU GPL v3 (LICENSE).
 
 Data set: Detrano, R., et al. (1989). Heart Disease Data Set. UCI Machine
 Learning Repository. Used here for educational/benchmark purposes.
