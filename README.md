@@ -100,7 +100,7 @@ than patients in general.
 
 ## License / attribution
 
-Code in this repository is released under the [GNU GPL v3 (LICENSE).
+Code in this repository is released under the GNU GPL v3 LICENSE.
 
 Data set: Detrano, R., et al. (1989). Heart Disease Data Set. UCI Machine
 Learning Repository. Used here for educational/benchmark purposes.
